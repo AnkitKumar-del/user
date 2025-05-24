@@ -589,7 +589,7 @@
         <div class="dashboard-card">
           <div class="card-header">
             <h3 class="card-title">Previous Appointments</h3>
-            <span class="card-icon">📅</span>
+            <span class="card-icon"></span>
           </div>
           <div class="appointment-list">
             <div class="appointment-item">
@@ -612,7 +612,7 @@
         <div class="dashboard-card">
           <div class="card-header">
             <h3 class="card-title">Upcoming Appointments</h3>
-            <span class="card-icon">⏰</span>
+            <span class="card-icon"></span>
           </div>
           <div class="appointment-list">
             <div class="appointment-item">
@@ -646,7 +646,7 @@
           <div class="hospital-header">
             <h3 class="hospital-name">CityCare Medical Center</h3>
             <p class="hospital-location">
-              <span>📍</span>
+              <span></span>
               123 Healthcare Avenue, Downtown District
             </p>
           </div>
@@ -673,7 +673,7 @@
           <div class="hospital-header">
             <h3 class="hospital-name">Metro General Hospital</h3>
             <p class="hospital-location">
-              <span>📍</span>
+              <span></span>
               456 Medical Street, Central City
             </p>
           </div>
@@ -700,7 +700,7 @@
           <div class="hospital-header">
             <h3 class="hospital-name">Sunrise Health Clinics</h3>
             <p class="hospital-location">
-              <span>📍</span>
+              <span></span>
               789 Wellness Boulevard, East Side
             </p>
           </div>
@@ -727,7 +727,7 @@
           <div class="hospital-header">
             <h3 class="hospital-name">Advanced Care Institute</h3>
             <p class="hospital-location">
-              <span>📍</span>
+              <span></span>
               321 Innovation Drive, Tech District
             </p>
           </div>
@@ -754,7 +754,7 @@
           <div class="hospital-header">
             <h3 class="hospital-name">Community Health Network</h3>
             <p class="hospital-location">
-              <span>📍</span>
+              <span></span>
               654 Community Lane, Suburban Area
             </p>
           </div>
